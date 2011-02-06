@@ -1,0 +1,6 @@
+Created by Becky Stewart January 2011
+for Culture Hack Day 2011.
+
+xlsIO.py (dependent on nltk and xlrd)
+crafts_server.py
+css/craftcss.css
