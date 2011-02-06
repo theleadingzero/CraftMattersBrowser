@@ -1,0 +1,28 @@
+body
+{
+    background-color:#888888;
+}
+
+p, form
+{
+    background-color:#6495ed;
+    font-family:"Arial", sans;
+    color:#505050;
+    text-align:left;
+    font-size:1.5em;
+    letter-spacing:0.10em;
+    padding-bottom: 0em;
+    padding:2em;
+    width:40e%;
+    margin:0 2em 0 2em;
+}
+
+a:link {color:#505050;;
+        text-decoration:none;}      /* unvisited link */
+a:visited {color:#505050;
+        text-decoration:none;}  /* visited link */
+a:hover {color:#707070;
+        text-decoration:none;}  /* mouse over link */
+a:active {color:#101010;
+        text-decoration:none;}
+
